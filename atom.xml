@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://web.aus.legal</id>
+    <id>https://blog.aus.legal</id>
     <title>温故而知新</title>
-    <updated>2022-04-23T10:53:09.031Z</updated>
+    <updated>2022-04-23T10:57:01.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://web.aus.legal"/>
-    <link rel="self" href="https://web.aus.legal/atom.xml"/>
-    <logo>https://web.aus.legal/images/avatar.png</logo>
-    <icon>https://web.aus.legal/favicon.ico</icon>
+    <link rel="alternate" href="https://blog.aus.legal"/>
+    <link rel="self" href="https://blog.aus.legal/atom.xml"/>
+    <logo>https://blog.aus.legal/images/avatar.png</logo>
+    <icon>https://blog.aus.legal/favicon.ico</icon>
     <rights>All rights reserved 2022, 温故而知新</rights>
     <entry>
         <title type="html"><![CDATA[魔幻现实疫情时代]]></title>
-        <id>https://web.aus.legal/post/covid-era/</id>
-        <link href="https://web.aus.legal/post/covid-era/">
+        <id>https://blog.aus.legal/covid-era/</id>
+        <link href="https://blog.aus.legal/covid-era/">
         </link>
         <updated>2022-04-24T01:20:10.000Z</updated>
     </entry>
