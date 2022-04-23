@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://web.aus.legal</id>
-    <title>Gridea</title>
-    <updated>2022-04-23T10:26:56.335Z</updated>
+    <title>温故而知新</title>
+    <updated>2022-04-23T10:53:09.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://web.aus.legal"/>
     <link rel="self" href="https://web.aus.legal/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://web.aus.legal/images/avatar.png</logo>
     <icon>https://web.aus.legal/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, 温故而知新</rights>
     <entry>
         <title type="html"><![CDATA[魔幻现实疫情时代]]></title>
         <id>https://web.aus.legal/post/covid-era/</id>
         <link href="https://web.aus.legal/post/covid-era/">
         </link>
-        <updated>2022-04-23T15:20:10.000Z</updated>
-        <content type="html"><![CDATA[<p>多年以后，世人回忆21世纪20年代发生的事情时，准会想起22年上海新冠疫情封城前的那个遥远的下午。彼时，正逢盛世，气氛一片祥和，以富庶繁华著称的上海，看起来无比斑斓，高楼林立，富饶迷人，金碧辉煌，享受着“稻米流脂粟米白”的小日子。</p>
-<p>上海又称魔都，是个有魔力的城市。疫情两年，全世界其他国家都不行，只有咱抗疫作业做得最好，听说是要发奖状的。毕竟专家都说了，生活在最安全的国度，安全感至少是漂亮国的五百倍以上。上海则是优秀生中的优等生，即使奥密克戎开始蔓延，全国45个城市处于封城或半封城状态，受影响人口达到3.73亿的时候，魔都仍然是最棒的。古话说“疫情时代住在中国你可要偷着乐了“，更何况&quot;上海疫情与美国相比微不足道&quot;。</p>
-<p>就在那几天，谣言来了。有关“上海封城“的不实言论在网上传播，严重扰乱社会秩序。东方网发布警方提醒：网络不是法外之地，广大市民要从官方发布渠道获取防疫信息，不信谣、不传谣。某政法叫兽和某大律严肃教育我们，“常说雪崩的时候没有一片雪花是无辜的...有非常多人起到了推波助澜的作用。”，“通俗地说，无论传谣者是无意还是恶意，只要行为发生就有可能构成行政或刑事违法犯罪”。说的真好，坚决支持不信谣、不传谣，响应号召不抢大米不囤食品。当听说造谣的坏人已经抓起了，真是大大的松了口气。</p>
-<figure data-type="image" tabindex="1"><img src="https://web.aus.legal/post-images/1650709541554.jpg" alt="" loading="lazy"></figure>
-]]></content>
+        <updated>2022-04-24T01:20:10.000Z</updated>
     </entry>
 </feed>
